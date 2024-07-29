@@ -18,5 +18,6 @@
     BOT_USERNAME = "GrabThemBot"
     CHARA_CHANNEL_ID = "-1001782672183"
     api_id = 21531216
-    api_hash = "f1ff78d3d0b3eaa825294af918318ac7"    }
+    api_hash = "f1ff78d3d0b3eaa825294af918318ac7"
+   }
 }
